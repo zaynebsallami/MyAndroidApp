@@ -1,0 +1,17 @@
+# Gradle files
+/build/
+/.gradle/
+/local.properties
+
+# IDE files
+/.idea/
+/*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+"/build/" 
+"/.gradle/" 
+"/local.properties" 
+"/.idea/" 
+"*.iml" 

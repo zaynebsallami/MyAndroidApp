@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CashBuddy</string>
+
+    <!-- Login/Register -->
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="s_inscrire">S\'inscrire</string>
+
+    <!-- Main Activity -->
+    <string name="title_main">Mes Dépenses</string>
+    <string name="total_du_mois">Total du mois</string>
+    <string name="aucune_depense">Aucune dépense enregistrée.\nCommencez dès maintenant!</string>
+    <string name="challenge_text">Économisez 20% cette semaine 🎯</string>
+
+    <!-- Categories -->
+    <string-array name="categories_array">
+        <item>Alimentation</item>
+        <item>Transport</item>
+        <item>Loisirs</item>
+        <item>Santé</item>
+        <item>Logement</item>
+        <item>Éducation</item>
+        <item>Autre</item>
+    </string-array>
+
+    <!-- Profile -->
+    <string name="profil">Profil</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="notifications">Notifications</string>
+
+    <!-- Budget -->
+    <string name="budget_mensuel">Budget mensuel</string>
+    <string name="depenses_du_mois">Dépenses du mois</string>
+</resources>
